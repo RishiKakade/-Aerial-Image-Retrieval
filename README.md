@@ -1,1 +1,1 @@
-# -Aerial-Image-Retrieval
+# Aerial-Image-Retrieval
