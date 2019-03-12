@@ -17,7 +17,7 @@ Accesses Bing Maps API
 
 &nbsp;&nbsp;&nbsp;&nbsp;Link: https://docs.microsoft.com/en-us/bingmaps/rest-services/
 ##### Output
-Imagery in .jpg file format, centered at coodinate
+Imagery in .jpeg file format, centered at coodinate
 ##### Usage
 In the command line,
 
